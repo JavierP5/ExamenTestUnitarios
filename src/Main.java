@@ -13,9 +13,18 @@ public class Main {
         }
     }
 
-    public static Object calcularLetraDNI(String dni) {
+    public static boolean comprobarDNI(String dni, char letra) {
+        return false;
     }
 
-    public static Object comprobarDNI(String dni, char letra) {
+    public static boolean calcularLetraDNI(String dni) {
+        return false;
     }
+
+    /**
+     *
+     * @param dni
+     * @return
+     */
+    
 }
